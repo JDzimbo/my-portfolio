@@ -264,3 +264,8 @@ if (footerYear) {
         `© ${currentYear} JDTech. All rights reserved.`;
 
 }
+
+
+
+
+
